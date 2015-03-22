@@ -1,0 +1,173 @@
+C:\Users\St.Deny\AppData\Local\Temporary Projects\ProjectProg\bin\Debug\ProjectProg.exe
+C:\Users\St.Deny\AppData\Local\Temporary Projects\ProjectProg\bin\Debug\ProjectProg.pdb
+C:\Users\St.Deny\AppData\Local\Temporary Projects\ProjectProg\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\St.Deny\AppData\Local\Temporary Projects\ProjectProg\obj\x86\Debug\ProjectProg.Form1.resources
+C:\Users\St.Deny\AppData\Local\Temporary Projects\ProjectProg\obj\x86\Debug\ProjectProg.MainForm.resources
+C:\Users\St.Deny\AppData\Local\Temporary Projects\ProjectProg\obj\x86\Debug\ProjectProg.Properties.Resources.resources
+C:\Users\St.Deny\AppData\Local\Temporary Projects\ProjectProg\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\St.Deny\AppData\Local\Temporary Projects\ProjectProg\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\St.Deny\AppData\Local\Temporary Projects\ProjectProg\obj\x86\Debug\ProjectProg.exe
+C:\Users\St.Deny\AppData\Local\Temporary Projects\ProjectProg\obj\x86\Debug\ProjectProg.pdb
+D:\Microsoft\Desktop\Project_prog_0%\Project\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.exe
+D:\Microsoft\Desktop\Project_prog_0%\Project\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.pdb
+D:\Microsoft\Desktop\Project_prog_0%\Project\ProjectProg\ProjectProg\bin\Debug\ProjectProg.exe
+D:\Microsoft\Desktop\Project_prog_0%\Project\ProjectProg\ProjectProg\bin\Debug\ProjectProg.pdb
+D:\Microsoft\Desktop\Project_prog_0%\Project\ProjectProg\ProjectProg\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Microsoft\Desktop\Project_prog_0%\Project\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.AddAppointmentForm.resources
+D:\Microsoft\Desktop\Project_prog_0%\Project\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.AddTransactionForm.resources
+D:\Microsoft\Desktop\Project_prog_0%\Project\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.LoginForm.resources
+D:\Microsoft\Desktop\Project_prog_0%\Project\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.MainForm.resources
+D:\Microsoft\Desktop\Project_prog_0%\Project\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.MasterCustomerForm.resources
+D:\Microsoft\Desktop\Project_prog_0%\Project\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.MasterServiceForm.resources
+D:\Microsoft\Desktop\Project_prog_0%\Project\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.MasterStaffForm.resources
+D:\Microsoft\Desktop\Project_prog_0%\Project\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.Properties.Resources.resources
+D:\Microsoft\Desktop\Project_prog_0%\Project\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.ViewAppointment.resources
+D:\Microsoft\Desktop\Project_prog_0%\Project\ProjectProg\ProjectProg\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Microsoft\Desktop\Project_prog_0%\Project\ProjectProg\ProjectProg\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Microsoft\Desktop\Project_prog_0%\Project\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.ViewTransactionForm.resources
+D:\Microsoft\Desktop\Project_prog_0%\Project\ProjectProg\ProjectProg\bin\Debug\Database1.mdf
+D:\Microsoft\Desktop\Project_prog_0%\Project\ProjectProg\ProjectProg\bin\Debug\Database1_log.ldf
+D:\Microsoft\Desktop\Project_prog_0%\Project\ProjectProg\ProjectProg\bin\Debug\ProjectProg.exe.config
+F:\Project_prog_0%\Project\ProjectProg\ProjectProg\bin\Debug\ProjectProg.exe.config
+F:\Project_prog_0%\Project\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.exe
+F:\Project_prog_0%\Project\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.pdb
+F:\Project_prog_0%\Project\ProjectProg\ProjectProg\bin\Debug\Database1.mdf
+F:\Project_prog_0%\Project\ProjectProg\ProjectProg\bin\Debug\Database1_log.ldf
+F:\Project_prog_0%\Project\ProjectProg\ProjectProg\bin\Debug\ProjectProg.exe
+F:\Project_prog_0%\Project\ProjectProg\ProjectProg\bin\Debug\ProjectProg.pdb
+F:\Project_prog_0%\Project\ProjectProg\ProjectProg\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Project_prog_0%\Project\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.AddAppointmentForm.resources
+F:\Project_prog_0%\Project\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.AddTransactionForm.resources
+F:\Project_prog_0%\Project\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.LoginForm.resources
+F:\Project_prog_0%\Project\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.MainForm.resources
+F:\Project_prog_0%\Project\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.MasterCustomerForm.resources
+F:\Project_prog_0%\Project\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.MasterServiceForm.resources
+F:\Project_prog_0%\Project\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.MasterStaffForm.resources
+F:\Project_prog_0%\Project\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.Properties.Resources.resources
+F:\Project_prog_0%\Project\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.ViewAppointment.resources
+F:\Project_prog_0%\Project\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.ViewTransactionForm.resources
+F:\Project_prog_0%\Project\ProjectProg\ProjectProg\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Project_prog_0%\Project\ProjectProg\ProjectProg\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Fendy Ismail\My Documents\Downloads\Compressed\Project\ProjectProg\ProjectProg\bin\Debug\ProjectProg.exe.config
+C:\Documents and Settings\Fendy Ismail\My Documents\Downloads\Compressed\Project\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.exe
+C:\Documents and Settings\Fendy Ismail\My Documents\Downloads\Compressed\Project\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.pdb
+C:\Documents and Settings\Fendy Ismail\My Documents\Downloads\Compressed\Project\ProjectProg\ProjectProg\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Fendy Ismail\My Documents\Downloads\Compressed\Project\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.AddAppointmentForm.resources
+C:\Documents and Settings\Fendy Ismail\My Documents\Downloads\Compressed\Project\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.AddTransactionForm.resources
+C:\Documents and Settings\Fendy Ismail\My Documents\Downloads\Compressed\Project\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.LoginForm.resources
+C:\Documents and Settings\Fendy Ismail\My Documents\Downloads\Compressed\Project\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.MainForm.resources
+C:\Documents and Settings\Fendy Ismail\My Documents\Downloads\Compressed\Project\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.MasterCustomerForm.resources
+C:\Documents and Settings\Fendy Ismail\My Documents\Downloads\Compressed\Project\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.MasterServiceForm.resources
+C:\Documents and Settings\Fendy Ismail\My Documents\Downloads\Compressed\Project\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.MasterStaffForm.resources
+C:\Documents and Settings\Fendy Ismail\My Documents\Downloads\Compressed\Project\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.Properties.Resources.resources
+C:\Documents and Settings\Fendy Ismail\My Documents\Downloads\Compressed\Project\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.ViewAppointment.resources
+C:\Documents and Settings\Fendy Ismail\My Documents\Downloads\Compressed\Project\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.ViewTransactionForm.resources
+C:\Documents and Settings\Fendy Ismail\My Documents\Downloads\Compressed\Project\ProjectProg\ProjectProg\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Fendy Ismail\My Documents\Downloads\Compressed\Project\ProjectProg\ProjectProg\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Fendy Ismail\My Documents\Downloads\Compressed\Project\ProjectProg\ProjectProg\bin\Debug\Database1.mdf
+C:\Documents and Settings\Fendy Ismail\My Documents\Downloads\Compressed\Project\ProjectProg\ProjectProg\bin\Debug\Database1_log.ldf
+C:\Documents and Settings\Fendy Ismail\My Documents\Downloads\Compressed\Project\ProjectProg\ProjectProg\bin\Debug\ProjectProg.exe
+C:\Documents and Settings\Fendy Ismail\My Documents\Downloads\Compressed\Project\ProjectProg\ProjectProg\bin\Debug\ProjectProg.pdb
+D:\Microsoft\Downloads\Compressed\Project\ProjectProg\ProjectProg\bin\Debug\ProjectProg.exe.config
+D:\Microsoft\Downloads\Compressed\Project\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.exe
+D:\Microsoft\Downloads\Compressed\Project\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.pdb
+D:\Microsoft\Downloads\Compressed\Project\ProjectProg\ProjectProg\bin\Debug\Database1.mdf
+D:\Microsoft\Downloads\Compressed\Project\ProjectProg\ProjectProg\bin\Debug\Database1_log.ldf
+D:\Microsoft\Downloads\Compressed\Project\ProjectProg\ProjectProg\bin\Debug\ProjectProg.exe
+D:\Microsoft\Downloads\Compressed\Project\ProjectProg\ProjectProg\bin\Debug\ProjectProg.pdb
+D:\Microsoft\Downloads\Compressed\Project\ProjectProg\ProjectProg\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Microsoft\Downloads\Compressed\Project\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.AddAppointmentForm.resources
+D:\Microsoft\Downloads\Compressed\Project\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.AddTransactionForm.resources
+D:\Microsoft\Downloads\Compressed\Project\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.LoginForm.resources
+D:\Microsoft\Downloads\Compressed\Project\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.MainForm.resources
+D:\Microsoft\Downloads\Compressed\Project\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.MasterCustomerForm.resources
+D:\Microsoft\Downloads\Compressed\Project\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.MasterServiceForm.resources
+D:\Microsoft\Downloads\Compressed\Project\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.MasterStaffForm.resources
+D:\Microsoft\Downloads\Compressed\Project\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.Properties.Resources.resources
+D:\Microsoft\Downloads\Compressed\Project\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.ViewAppointment.resources
+D:\Microsoft\Downloads\Compressed\Project\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.ViewTransactionForm.resources
+D:\Microsoft\Downloads\Compressed\Project\ProjectProg\ProjectProg\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Microsoft\Downloads\Compressed\Project\ProjectProg\ProjectProg\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Project\ProjectProg\ProjectProg\bin\Debug\ProjectProg.exe.config
+F:\Project\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.exe
+F:\Project\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.pdb
+F:\Project\ProjectProg\ProjectProg\bin\Debug\Database1.mdf
+F:\Project\ProjectProg\ProjectProg\bin\Debug\Database1_log.ldf
+F:\Project\ProjectProg\ProjectProg\bin\Debug\ProjectProg.exe
+F:\Project\ProjectProg\ProjectProg\bin\Debug\ProjectProg.pdb
+F:\Project\ProjectProg\ProjectProg\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Project\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.AddAppointmentForm.resources
+F:\Project\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.AddTransactionForm.resources
+F:\Project\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.LoginForm.resources
+F:\Project\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.MainForm.resources
+F:\Project\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.MasterCustomerForm.resources
+F:\Project\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.MasterServiceForm.resources
+F:\Project\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.MasterStaffForm.resources
+F:\Project\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.Properties.Resources.resources
+F:\Project\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.ViewAppointment.resources
+F:\Project\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.ViewTransactionForm.resources
+F:\Project\ProjectProg\ProjectProg\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Project\ProjectProg\ProjectProg\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\Project\ProjectProg\ProjectProg\bin\Debug\ProjectProg.exe.config
+I:\Project\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.exe
+I:\Project\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.pdb
+I:\Project\ProjectProg\ProjectProg\bin\Debug\Database1.mdf
+I:\Project\ProjectProg\ProjectProg\bin\Debug\Database1_log.ldf
+I:\Project\ProjectProg\ProjectProg\bin\Debug\ProjectProg.exe
+I:\Project\ProjectProg\ProjectProg\bin\Debug\ProjectProg.pdb
+I:\Project\ProjectProg\ProjectProg\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\Project\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.AddAppointmentForm.resources
+I:\Project\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.AddTransactionForm.resources
+I:\Project\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.LoginForm.resources
+I:\Project\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.MainForm.resources
+I:\Project\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.MasterCustomerForm.resources
+I:\Project\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.MasterServiceForm.resources
+I:\Project\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.MasterStaffForm.resources
+I:\Project\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.Properties.Resources.resources
+I:\Project\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.ViewAppointment.resources
+I:\Project\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.ViewTransactionForm.resources
+I:\Project\ProjectProg\ProjectProg\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\Project\ProjectProg\ProjectProg\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\Project_prog_0%\Project\ProjectProg\ProjectProg\bin\Debug\ProjectProg.exe.config
+I:\Project_prog_0%\Project\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.exe
+I:\Project_prog_0%\Project\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.pdb
+I:\Project_prog_0%\Project\ProjectProg\ProjectProg\bin\Debug\Database1.mdf
+I:\Project_prog_0%\Project\ProjectProg\ProjectProg\bin\Debug\Database1_log.ldf
+I:\Project_prog_0%\Project\ProjectProg\ProjectProg\bin\Debug\ProjectProg.exe
+I:\Project_prog_0%\Project\ProjectProg\ProjectProg\bin\Debug\ProjectProg.pdb
+I:\Project_prog_0%\Project\ProjectProg\ProjectProg\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\Project_prog_0%\Project\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.AddAppointmentForm.resources
+I:\Project_prog_0%\Project\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.AddTransactionForm.resources
+I:\Project_prog_0%\Project\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.LoginForm.resources
+I:\Project_prog_0%\Project\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.MainForm.resources
+I:\Project_prog_0%\Project\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.MasterCustomerForm.resources
+I:\Project_prog_0%\Project\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.MasterServiceForm.resources
+I:\Project_prog_0%\Project\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.MasterStaffForm.resources
+I:\Project_prog_0%\Project\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.Properties.Resources.resources
+I:\Project_prog_0%\Project\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.ViewAppointment.resources
+I:\Project_prog_0%\Project\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.ViewTransactionForm.resources
+I:\Project_prog_0%\Project\ProjectProg\ProjectProg\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\Project_prog_0%\Project\ProjectProg\ProjectProg\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Microsoft\Desktop\Smester 4\Project_prog_0%\Project 100% Jadi\ProjectProg\ProjectProg\bin\Debug\ProjectProg.exe.config
+D:\Microsoft\Desktop\Smester 4\Project_prog_0%\Project 100% Jadi\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.exe
+D:\Microsoft\Desktop\Smester 4\Project_prog_0%\Project 100% Jadi\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.pdb
+J:\Data\Dokument\Word Documens\Dny WORD\Data Kuliah\Smester 3 & 4\Smester 4\Project\Project_Prog_100%\Project 100% Jadi\ProjectProg\ProjectProg\bin\Debug\ProjectProg.exe.config
+J:\Data\Dokument\Word Documens\Dny WORD\Data Kuliah\Smester 3 & 4\Smester 4\Project\Project_Prog_100%\Project 100% Jadi\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.exe
+J:\Data\Dokument\Word Documens\Dny WORD\Data Kuliah\Smester 3 & 4\Smester 4\Project\Project_Prog_100%\Project 100% Jadi\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.pdb
+J:\Data\Dokument\Word Documens\Dny WORD\Data Kuliah\Smester 3 & 4\Smester 4\Project\Project_Prog_100%\Project 100% Jadi\ProjectProg\ProjectProg\bin\Debug\Database1.mdf
+J:\Data\Dokument\Word Documens\Dny WORD\Data Kuliah\Smester 3 & 4\Smester 4\Project\Project_Prog_100%\Project 100% Jadi\ProjectProg\ProjectProg\bin\Debug\Database1_log.ldf
+J:\Data\Dokument\Word Documens\Dny WORD\Data Kuliah\Smester 3 & 4\Smester 4\Project\Project_Prog_100%\Project 100% Jadi\ProjectProg\ProjectProg\bin\Debug\ProjectProg.exe
+J:\Data\Dokument\Word Documens\Dny WORD\Data Kuliah\Smester 3 & 4\Smester 4\Project\Project_Prog_100%\Project 100% Jadi\ProjectProg\ProjectProg\bin\Debug\ProjectProg.pdb
+J:\Data\Dokument\Word Documens\Dny WORD\Data Kuliah\Smester 3 & 4\Smester 4\Project\Project_Prog_100%\Project 100% Jadi\ProjectProg\ProjectProg\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\Data\Dokument\Word Documens\Dny WORD\Data Kuliah\Smester 3 & 4\Smester 4\Project\Project_Prog_100%\Project 100% Jadi\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.AddAppointmentForm.resources
+J:\Data\Dokument\Word Documens\Dny WORD\Data Kuliah\Smester 3 & 4\Smester 4\Project\Project_Prog_100%\Project 100% Jadi\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.AddTransactionForm.resources
+J:\Data\Dokument\Word Documens\Dny WORD\Data Kuliah\Smester 3 & 4\Smester 4\Project\Project_Prog_100%\Project 100% Jadi\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.LoginForm.resources
+J:\Data\Dokument\Word Documens\Dny WORD\Data Kuliah\Smester 3 & 4\Smester 4\Project\Project_Prog_100%\Project 100% Jadi\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.MainForm.resources
+J:\Data\Dokument\Word Documens\Dny WORD\Data Kuliah\Smester 3 & 4\Smester 4\Project\Project_Prog_100%\Project 100% Jadi\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.MasterCustomerForm.resources
+J:\Data\Dokument\Word Documens\Dny WORD\Data Kuliah\Smester 3 & 4\Smester 4\Project\Project_Prog_100%\Project 100% Jadi\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.MasterServiceForm.resources
+J:\Data\Dokument\Word Documens\Dny WORD\Data Kuliah\Smester 3 & 4\Smester 4\Project\Project_Prog_100%\Project 100% Jadi\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.MasterStaffForm.resources
+J:\Data\Dokument\Word Documens\Dny WORD\Data Kuliah\Smester 3 & 4\Smester 4\Project\Project_Prog_100%\Project 100% Jadi\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.Properties.Resources.resources
+J:\Data\Dokument\Word Documens\Dny WORD\Data Kuliah\Smester 3 & 4\Smester 4\Project\Project_Prog_100%\Project 100% Jadi\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.ViewAppointment.resources
+J:\Data\Dokument\Word Documens\Dny WORD\Data Kuliah\Smester 3 & 4\Smester 4\Project\Project_Prog_100%\Project 100% Jadi\ProjectProg\ProjectProg\obj\x86\Debug\ProjectProg.ViewTransactionForm.resources
+J:\Data\Dokument\Word Documens\Dny WORD\Data Kuliah\Smester 3 & 4\Smester 4\Project\Project_Prog_100%\Project 100% Jadi\ProjectProg\ProjectProg\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\Data\Dokument\Word Documens\Dny WORD\Data Kuliah\Smester 3 & 4\Smester 4\Project\Project_Prog_100%\Project 100% Jadi\ProjectProg\ProjectProg\obj\x86\Debug\GenerateResource.write.1.tlog
